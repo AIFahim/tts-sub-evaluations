@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/home/asif/tts_all/TTS_Evaluations/NISQA/run_predict.py", line 70, in <module>
+    nisqa = nisqaModel(args)
+  File "/home/asif/tts_all/TTS_Evaluations/NISQA/nisqa/NISQA_model.py", line 34, in __init__
+    self._loadModel()
+  File "/home/asif/tts_all/TTS_Evaluations/NISQA/nisqa/NISQA_model.py", line 938, in _loadModel
+    checkpoint = torch.load(model_path, map_location=self.dev)
+  File "/home/asif/miniconda3/envs/nisqa/lib/python3.9/site-packages/torch/serialization.py", line 594, in load
+    with _open_file_like(f, 'rb') as opened_file:
+  File "/home/asif/miniconda3/envs/nisqa/lib/python3.9/site-packages/torch/serialization.py", line 230, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "/home/asif/miniconda3/envs/nisqa/lib/python3.9/site-packages/torch/serialization.py", line 211, in __init__
+    super(_open_file, self).__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: '/home/asif/tts_all/TTS_Evaluations/NISQA/nisqa_tts.tar'
