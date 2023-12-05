@@ -1,0 +1,5 @@
+deg,mos_pred,noi_pred,dis_pred,col_pred,loud_pred,model
+test_w_vocoder_parallel_wavegan_44k_new_wei_110000.wav,1.9860116243362427,,,,,NISQA_TTS_v1
+test_w_vocoder_hifi_gan_44k_new_wei_330000.wav,3.024022340774536,,,,,NISQA_TTS_v1
+test_w_o_vocoder_multibandmelgan_44k.wav,2.6227567195892334,,,,,NISQA_TTS_v1
+test_w_o_vocoder_multibandmelgan_44k copy.wav,2.6227567195892334,,,,,NISQA_TTS_v1

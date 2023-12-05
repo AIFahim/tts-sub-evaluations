@@ -1,0 +1,2 @@
+deg,mos_pred,noi_pred,dis_pred,col_pred,loud_pred,model
+inference_w_alignTTS_collect_male.wav,1.5805855989456177,,,,,NISQA_TTS_v1

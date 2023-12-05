@@ -1,0 +1,8 @@
+deg,mos_pred,noi_pred,dis_pred,col_pred,loud_pred,model
+align.wav,3.1842777729034424,,,,,NISQA_TTS_v1
+azure.wav,4.020371913909912,,,,,NISQA_TTS_v1
+fs2.wav,3.5688538551330566,,,,,NISQA_TTS_v1
+glow.wav,3.249555826187134,,,,,NISQA_TTS_v1
+google.wav,2.3552541732788086,,,,,NISQA_TTS_v1
+gt.wav,4.281311511993408,,,,,NISQA_TTS_v1
+vits.wav,3.7013423442840576,,,,,NISQA_TTS_v1
